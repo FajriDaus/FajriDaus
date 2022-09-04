@@ -22,6 +22,8 @@
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" </a>
 <a href="https://www.canva.com/" target="_blank"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" /> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=Figma" alt="figma" </a>
+<a href="https://trello.com/" target="_blank"> <img src="https://img.shields.io/badge/trello-%2320232a.svg?style=for-the-badge&logo=Trello" alt="trello" </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code" /> </a>
 </p>
 <br>
