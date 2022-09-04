@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h2 align=center>Hello!, Im Fajri Firdaus</h2>
 <br>
 <h2 align="left">Connect with me:</h2>
@@ -21,16 +19,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1Eg" alt="javascript" </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" </a>
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="photoshop" </a>
 <a href="https://www.canva.com/" target="_blank"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" /> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code" /> </a>
- <a href="https://codesandbox.io/u/marisabrantley" target="_blank"> <img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=white" alt="codesandbox" /> </a>
-<a href=# target="_blank"> <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" /> </a>
-</p>
-<br>
-<h2 align="left">Hobbies:</h2>
-<p align="left">
-<a href="https://www.goodreads.com/user/show/4287311-marisa" target="_blank"><img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" alt="goodreads" /></a>
 </p>
 <br>
 <br>
