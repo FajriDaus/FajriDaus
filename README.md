@@ -19,6 +19,7 @@
 <a href="https://sass-lang.com" target="_blank"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" /> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1Eg" alt="javascript" </a>
 <a href="https://www.php.net/" target="_blank"> <img src="https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php&logoColor=777BB3" alt="php" </a>
+<a href="https://vuejs.org/" target="_blank"> <img src="https://img.shields.io/badge/-Vue.js-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="vue" </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" </a>
 <a href="https://www.canva.com/" target="_blank"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" /> </a>
