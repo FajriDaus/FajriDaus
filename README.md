@@ -2,14 +2,14 @@
 <br>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="mailto: fajrifirdaus47@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/dotty/40/000000/email.png" alt="email" />
+<a href="mailto: fajrifirdaus47@gmail.com" target="__blank"><img align="center" src="https://img.icons8.com/dotty/40/000000/email.png" alt="email" />
 </a>
-<a href="https://instagram.com/fajri.daus" rel="noopener noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad-fajri-firdaus" rel="noopener noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.facebook.com/fajri.daus04/" rel="noopener noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fb" height="30" width="40" /></a>
+<a href="https://instagram.com/fajri.daus" rel="noopener noreferrer" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammad-fajri-firdaus" rel="noopener noreferrer" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.facebook.com/fajri.daus04/" rel="noopener noreferrer" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fb" height="30" width="40" /></a>
 </p>
 <p align="left">
-<a href="https://twitter.com/ddausdude" rel="noopener noreferrer" target="_blank"> <img src="https://img.shields.io/twitter/follow/ddausdude?logo=twitter&style=for-the-badge" alt="twiter" /></a>
+<a href="https://twitter.com/ddausdude" rel="noopener noreferrer" target="__blank"> <img src="https://img.shields.io/twitter/follow/ddausdude?logo=twitter&style=for-the-badge" alt="twiter" /></a>
 </p>
 <br>
 <h2 align="left">Languages and Tools:</h2>
